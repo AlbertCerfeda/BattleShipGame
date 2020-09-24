@@ -123,7 +123,6 @@ void PreparazioneCustomizzazioniDefault(){
     5   MAGENTA
     6   BROWN
     7   LIGHTGRAY
-
     8   DARKGRAY
     9   LIGHTBLUE
     10  LIGHTGREEN
